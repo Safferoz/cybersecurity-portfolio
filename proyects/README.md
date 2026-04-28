@@ -77,7 +77,7 @@ Compromiso total del dominio Active Directory, incluyendo:
 
 ## Informe completo
 
-[Ver informe técnico](../../reports/active-directory-security-assessment.pdf)
+[Ver informe técnico](assets/active-directory-security-assessment.pdf)
 
 ## Nota
 

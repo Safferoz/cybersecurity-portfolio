@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio - Alex Arteaga
 
-Bienvenido a mi portfolio de ciberseguridad.
+Portfolio práctico de ciberseguridad enfocado en análisis de vulnerabilidades, seguridad de redes, Active Directory y entornos de laboratorio empresariales.
 
 Este repositorio contiene proyectos prácticos realizados en entornos controlados, enfocados en análisis de vulnerabilidades, seguridad en redes y Active Directory.
 

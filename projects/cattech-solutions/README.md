@@ -1,20 +1,33 @@
 # CatTech Solutions
 
-CatTech Solutions is a fictional company created for my first cybersecurity homelab project.
+CatTech Solutions is a fictional company created as my first cybersecurity homelab project.
 
-The goal of this project is to design and build a small corporate environment where I can practice:
+The objective of this project is to design and build a small corporate environment where I can practice cybersecurity concepts in a controlled environment.
 
-- Network security
-- Active Directory
-- Vulnerability assessment
-- Penetration testing
-- Security monitoring
-- System hardening
+## Main goals
 
-## Project Status
+- Design a small corporate network.
+- Configure basic network segmentation.
+- Deploy Active Directory.
+- Create users and groups.
+- Perform vulnerability assessment.
+- Simulate controlled attacks.
+- Monitor suspicious activity.
+- Apply security hardening.
+
+## Current status
 
 Planning phase.
 
-## Current Objective
+## Company Profile
 
-Design the infrastructure before deploying any virtual machines.
+CatTech Solutions is a fictional technology company focused on software development and technical services.
+
+The company has approximately 40–50 employees distributed across the following departments:
+
+- Production / Development
+- IT
+- Technical Support
+- Finance
+- Human Resources
+- Management

@@ -53,8 +53,6 @@ The purpose of this phase is to define the logical structure of the company and 
 
 The current diagram represents only the normal corporate infrastructure of CatTech Solutions.
 
-Security testing systems such as Kali Linux, vulnerability scanners and dedicated assessment networks are intentionally excluded from this diagram and will be documented separately in later phases.
-
 ### Phase 2 — Infrastructure Deployment
 
 **Status:** Planned
